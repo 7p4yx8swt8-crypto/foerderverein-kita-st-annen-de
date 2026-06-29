@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Förderverein Kita St. Annen">
+  <rect width="64" height="64" rx="16" fill="#EAF3DE"/>
+  <circle cx="32" cy="32" r="22" fill="#FFFFFF" stroke="#3B6D11" stroke-width="3"/>
+  <path d="M19 37c7-1 11-5 13-14 2 9 6 13 13 14-7 2-11 6-13 14-2-8-6-12-13-14Z" fill="#639922"/>
+  <circle cx="32" cy="24" r="4" fill="#BA7517"/>
+</svg>
